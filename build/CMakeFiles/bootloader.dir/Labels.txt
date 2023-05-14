@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/CMakeFiles/bootloader
+/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/CMakeFiles/bootloader.rule
+/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/CMakeFiles/bootloader-complete.rule
+/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

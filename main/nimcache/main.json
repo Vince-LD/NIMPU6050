@@ -1,0 +1,97 @@
+{
+  "cacheVersion": "D20210525T193831",
+  "outputFile": "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/main",
+  "compile": [
+    [
+      "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@ssystem@sexceptions.nim.c",
+      "gcc -c  -w -fmax-errors=3 -pthread -g3 -Og   -I/home/vincent/nim-1.9.3/nim/lib -I/home/vincent/Documents/Nim/MCU/NIMPU6050/main -o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@ssystem@sexceptions.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@ssystem@sexceptions.nim.c"
+    ],
+    [
+      "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@sstd@sprivate@sdigitsutils.nim.c",
+      "gcc -c  -w -fmax-errors=3 -pthread -g3 -Og   -I/home/vincent/nim-1.9.3/nim/lib -I/home/vincent/Documents/Nim/MCU/NIMPU6050/main -o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@sstd@sprivate@sdigitsutils.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@sstd@sprivate@sdigitsutils.nim.c"
+    ],
+    [
+      "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@sstd@sformatfloat.nim.c",
+      "gcc -c  -w -fmax-errors=3 -pthread -g3 -Og   -I/home/vincent/nim-1.9.3/nim/lib -I/home/vincent/Documents/Nim/MCU/NIMPU6050/main -o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@sstd@sformatfloat.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@sstd@sformatfloat.nim.c"
+    ],
+    [
+      "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@ssystem@sdollars.nim.c",
+      "gcc -c  -w -fmax-errors=3 -pthread -g3 -Og   -I/home/vincent/nim-1.9.3/nim/lib -I/home/vincent/Documents/Nim/MCU/NIMPU6050/main -o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@ssystem@sdollars.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@ssystem@sdollars.nim.c"
+    ],
+    [
+      "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@ssystem.nim.c",
+      "gcc -c  -w -fmax-errors=3 -pthread -g3 -Og   -I/home/vincent/nim-1.9.3/nim/lib -I/home/vincent/Documents/Nim/MCU/NIMPU6050/main -o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@ssystem.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@ssystem.nim.c"
+    ],
+    [
+      "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@spure@smath.nim.c",
+      "gcc -c  -w -fmax-errors=3 -pthread -g3 -Og   -I/home/vincent/nim-1.9.3/nim/lib -I/home/vincent/Documents/Nim/MCU/NIMPU6050/main -o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@spure@smath.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@spure@smath.nim.c"
+    ],
+    [
+      "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@spure@scollections@ssequtils.nim.c",
+      "gcc -c  -w -fmax-errors=3 -pthread -g3 -Og   -I/home/vincent/nim-1.9.3/nim/lib -I/home/vincent/Documents/Nim/MCU/NIMPU6050/main -o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@spure@scollections@ssequtils.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@spure@scollections@ssequtils.nim.c"
+    ],
+    [
+      "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@s.nimble@spkgs2@snesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8@snesper@sgeneral.nim.c",
+      "gcc -c  -w -fmax-errors=3 -pthread -g3 -Og   -I/home/vincent/nim-1.9.3/nim/lib -I/home/vincent/Documents/Nim/MCU/NIMPU6050/main -o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@s.nimble@spkgs2@snesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8@snesper@sgeneral.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@s.nimble@spkgs2@snesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8@snesper@sgeneral.nim.c"
+    ],
+    [
+      "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@s.nimble@spkgs2@snesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8@snesper@sesp@sdriver@sgpio_driver.nim.c",
+      "gcc -c  -w -fmax-errors=3 -pthread -g3 -Og   -I/home/vincent/nim-1.9.3/nim/lib -I/home/vincent/Documents/Nim/MCU/NIMPU6050/main -o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@s.nimble@spkgs2@snesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8@snesper@sesp@sdriver@sgpio_driver.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@s.nimble@spkgs2@snesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8@snesper@sesp@sdriver@sgpio_driver.nim.c"
+    ],
+    [
+      "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@s.nimble@spkgs2@snesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8@snesper@si2cs.nim.c",
+      "gcc -c  -w -fmax-errors=3 -pthread -g3 -Og   -I/home/vincent/nim-1.9.3/nim/lib -I/home/vincent/Documents/Nim/MCU/NIMPU6050/main -o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@s.nimble@spkgs2@snesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8@snesper@si2cs.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@s.nimble@spkgs2@snesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8@snesper@si2cs.nim.c"
+    ],
+    [
+      "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@s.nimble@spkgs2@snesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8@snesper@sesp-idf-lib@si2cdev_utils.nim.c",
+      "gcc -c  -w -fmax-errors=3 -pthread -g3 -Og   -I/home/vincent/nim-1.9.3/nim/lib -I/home/vincent/Documents/Nim/MCU/NIMPU6050/main -o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@s.nimble@spkgs2@snesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8@snesper@sesp-idf-lib@si2cdev_utils.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@s.nimble@spkgs2@snesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8@snesper@sesp-idf-lib@si2cdev_utils.nim.c"
+    ],
+    [
+      "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@s.nimble@spkgs2@snesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8@snesper@stimers.nim.c",
+      "gcc -c  -w -fmax-errors=3 -pthread -g3 -Og   -I/home/vincent/nim-1.9.3/nim/lib -I/home/vincent/Documents/Nim/MCU/NIMPU6050/main -o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@s.nimble@spkgs2@snesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8@snesper@stimers.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@s.nimble@spkgs2@snesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8@snesper@stimers.nim.c"
+    ],
+    [
+      "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@ssrc@smpu6050@smpu6050_consts.nim.c",
+      "gcc -c  -w -fmax-errors=3 -pthread -g3 -Og   -I/home/vincent/nim-1.9.3/nim/lib -I/home/vincent/Documents/Nim/MCU/NIMPU6050/main -o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@ssrc@smpu6050@smpu6050_consts.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@ssrc@smpu6050@smpu6050_consts.nim.c"
+    ],
+    [
+      "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@ssrc@smpu6050@smpu6050.nim.c",
+      "gcc -c  -w -fmax-errors=3 -pthread -g3 -Og   -I/home/vincent/nim-1.9.3/nim/lib -I/home/vincent/Documents/Nim/MCU/NIMPU6050/main -o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@ssrc@smpu6050@smpu6050.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@ssrc@smpu6050@smpu6050.nim.c"
+    ],
+    [
+      "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@mmain.nim.c",
+      "gcc -c  -w -fmax-errors=3 -pthread -g3 -Og   -I/home/vincent/nim-1.9.3/nim/lib -I/home/vincent/Documents/Nim/MCU/NIMPU6050/main -o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@mmain.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@mmain.nim.c"
+    ]
+  ],
+  "link": [
+    "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@ssystem@sexceptions.nim.c.o",
+    "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@sstd@sprivate@sdigitsutils.nim.c.o",
+    "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@sstd@sformatfloat.nim.c.o",
+    "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@ssystem@sdollars.nim.c.o",
+    "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@ssystem.nim.c.o",
+    "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@spure@smath.nim.c.o",
+    "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@spure@scollections@ssequtils.nim.c.o",
+    "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@s.nimble@spkgs2@snesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8@snesper@sgeneral.nim.c.o",
+    "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@s.nimble@spkgs2@snesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8@snesper@sesp@sdriver@sgpio_driver.nim.c.o",
+    "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@s.nimble@spkgs2@snesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8@snesper@si2cs.nim.c.o",
+    "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@s.nimble@spkgs2@snesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8@snesper@sesp-idf-lib@si2cdev_utils.nim.c.o",
+    "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@s.nimble@spkgs2@snesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8@snesper@stimers.nim.c.o",
+    "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@ssrc@smpu6050@smpu6050_consts.nim.c.o",
+    "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@ssrc@smpu6050@smpu6050.nim.c.o",
+    "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@mmain.nim.c.o"
+  ],
+  "linkcmd": "g++   -o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/main /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@ssystem@sexceptions.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@sstd@sprivate@sdigitsutils.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@sstd@sformatfloat.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@ssystem@sdollars.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@ssystem.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@spure@smath.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@snim-1.9.3@snim@slib@spure@scollections@ssequtils.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@s.nimble@spkgs2@snesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8@snesper@sgeneral.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@s.nimble@spkgs2@snesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8@snesper@sesp@sdriver@sgpio_driver.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@s.nimble@spkgs2@snesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8@snesper@si2cs.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@s.nimble@spkgs2@snesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8@snesper@sesp-idf-lib@si2cdev_utils.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@s..@s..@s..@s..@s.nimble@spkgs2@snesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8@snesper@stimers.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@ssrc@smpu6050@smpu6050_consts.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@m..@ssrc@smpu6050@smpu6050.nim.c.o /home/vincent/Documents/Nim/MCU/NIMPU6050/main/nimcache/@mmain.nim.c.o  -pthread -pthread -lm -lm   -ldl",
+  "extraCmds": [],
+  "configFiles": [
+    "/home/vincent/nim-1.9.3/nim/config/nim.cfg",
+    "/home/vincent/nim-1.9.3/nim/config/config.nims",
+    "/home/vincent/Documents/Nim/MCU/NIMPU6050/main/nim.cfg"
+  ],
+  "stdinInput": false,
+  "projectIsCmd": false,
+  "cmdInput": "",
+  "currentDir": "/home/vincent/Documents/Nim/MCU/NIMPU6050",
+  "cmdline": "",
+  "depfiles": [],
+  "nimexe": ""
+}

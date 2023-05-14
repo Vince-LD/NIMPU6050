@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/_deps/espidflib-subbuild/CMakeFiles/espidflib-populate"
+		},
+		{
+			"file" : "/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/_deps/espidflib-subbuild/CMakeFiles/espidflib-populate.rule"
+		},
+		{
+			"file" : "/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/_deps/espidflib-subbuild/CMakeFiles/espidflib-populate-complete.rule"
+		},
+		{
+			"file" : "/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/_deps/espidflib-subbuild/espidflib-populate-prefix/src/espidflib-populate-stamp/espidflib-populate-build.rule"
+		},
+		{
+			"file" : "/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/_deps/espidflib-subbuild/espidflib-populate-prefix/src/espidflib-populate-stamp/espidflib-populate-configure.rule"
+		},
+		{
+			"file" : "/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/_deps/espidflib-subbuild/espidflib-populate-prefix/src/espidflib-populate-stamp/espidflib-populate-download.rule"
+		},
+		{
+			"file" : "/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/_deps/espidflib-subbuild/espidflib-populate-prefix/src/espidflib-populate-stamp/espidflib-populate-install.rule"
+		},
+		{
+			"file" : "/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/_deps/espidflib-subbuild/espidflib-populate-prefix/src/espidflib-populate-stamp/espidflib-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/_deps/espidflib-subbuild/espidflib-populate-prefix/src/espidflib-populate-stamp/espidflib-populate-patch.rule"
+		},
+		{
+			"file" : "/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/_deps/espidflib-subbuild/espidflib-populate-prefix/src/espidflib-populate-stamp/espidflib-populate-test.rule"
+		},
+		{
+			"file" : "/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/_deps/espidflib-subbuild/espidflib-populate-prefix/src/espidflib-populate-stamp/espidflib-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"espidflib-populate"
+		],
+		"name" : "espidflib-populate"
+	}
+}

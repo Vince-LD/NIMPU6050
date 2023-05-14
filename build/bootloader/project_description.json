@@ -1,0 +1,18 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/home/vincent/esp/esp-idf/components/bootloader/subproject",
+    "build_dir":          "/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/bootloader",
+    "config_file":        "/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.0.3-215-gbe7df8bce9",
+    "phy_data_partition": "",
+    "monitor_baud" : "115200",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/home/vincent/esp/esp-idf/components/efuse/Kconfig;/home/vincent/esp/esp-idf/components/esp32/Kconfig;/home/vincent/esp/esp-idf/components/esp_common/Kconfig;/home/vincent/esp/esp-idf/components/log/Kconfig;/home/vincent/esp/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/home/vincent/esp/esp-idf/components/bootloader/Kconfig.projbuild;/home/vincent/esp/esp-idf/components/esptool_py/Kconfig.projbuild;/home/vincent/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_rom", "esptool_py", "log", "main", "micro-ecc", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "/home/vincent/esp/esp-idf/components/bootloader", "/home/vincent/esp/esp-idf/components/bootloader_support", "/home/vincent/esp/esp-idf/components/efuse", "/home/vincent/esp/esp-idf/components/esp32", "/home/vincent/esp/esp-idf/components/esp_common", "/home/vincent/esp/esp-idf/components/esp_rom", "/home/vincent/esp/esp-idf/components/esptool_py", "/home/vincent/esp/esp-idf/components/log", "/home/vincent/esp/esp-idf/components/bootloader/subproject/main", "/home/vincent/esp/esp-idf/components/bootloader/subproject/components/micro-ecc", "/home/vincent/esp/esp-idf/components/partition_table", "/home/vincent/esp/esp-idf/components/soc", "/home/vincent/esp/esp-idf/components/spi_flash", "/home/vincent/esp/esp-idf/components/xtensa", "" ]
+}

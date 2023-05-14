@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../../../.nimble/pkgs/nesper-#devel"
+		}
+	],
+	"settings": {}
+}

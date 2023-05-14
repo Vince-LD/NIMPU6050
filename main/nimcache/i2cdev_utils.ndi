@@ -1,0 +1,11 @@
+i2cStarted	i2cStarted__OOZOOZOOZOOZOOZOnimbleZpkgs50Znesper4548O54O494549545556fa5352fffdd574850a555156b4854dfb54bdabbfd50515351c56ZnesperZesp45idf45libZi50cdev95utils_24	/home/vincent/.nimble/pkgs2/nesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8/nesper/esp-idf-lib/i2cdev_utils.nim	32	4
+i2cDeviceInit	i2cDeviceInit__OOZOOZOOZOOZOOZOnimbleZpkgs50Znesper4548O54O494549545556fa5352fffdd574850a555156b4854dfb54bdabbfd50515351c56ZnesperZesp45idf45libZi50cdev95utils_25	/home/vincent/.nimble/pkgs2/nesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8/nesper/esp-idf-lib/i2cdev_utils.nim	34	5
+ret	ret__2m9cRyGpkDK2tiYARF9amKrg	/home/vincent/.nimble/pkgs2/nesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8/nesper/general.nim	41	14
+i2c_read_reg	i2c_read_reg__OOZOOZOOZOOZOOZOnimbleZpkgs50Znesper4548O54O494549545556fa5352fffdd574850a555156b4854dfb54bdabbfd50515351c56ZnesperZesp45idf45libZi50cdev95utils_26	/home/vincent/.nimble/pkgs2/nesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8/nesper/esp-idf-lib/i2cdev_utils.nim	41	5
+result	result	/home/vincent/.nimble/pkgs2/nesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8/nesper/esp-idf-lib/i2cdev_utils.nim	41	0
+buf	buf	/home/vincent/.nimble/pkgs2/nesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8/nesper/esp-idf-lib/i2cdev_utils.nim	42	6
+res	res	/home/vincent/.nimble/pkgs2/nesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8/nesper/esp-idf-lib/i2cdev_utils.nim	43	6
+i2c_write_reg	i2c_write_reg__OOZOOZOOZOOZOOZOnimbleZpkgs50Znesper4548O54O494549545556fa5352fffdd574850a555156b4854dfb54bdabbfd50515351c56ZnesperZesp45idf45libZi50cdev95utils_69	/home/vincent/.nimble/pkgs2/nesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8/nesper/esp-idf-lib/i2cdev_utils.nim	51	5
+result	result	/home/vincent/.nimble/pkgs2/nesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8/nesper/esp-idf-lib/i2cdev_utils.nim	51	0
+buf	buf	/home/vincent/.nimble/pkgs2/nesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8/nesper/esp-idf-lib/i2cdev_utils.nim	52	6
+res	res	/home/vincent/.nimble/pkgs2/nesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8/nesper/esp-idf-lib/i2cdev_utils.nim	53	6

@@ -1,0 +1,7 @@
+mpu	mpu__main_6	/home/vincent/Documents/Nim/MCU/NIMPU6050/main/main.nim	13	4
+i2cCfg	i2cCfg__main_5	/home/vincent/Documents/Nim/MCU/NIMPU6050/main/main.nim	10	4
+mpu6050	mpu6050__CbSAqYObCdYW6l7zhwrUpw	/home/vincent/Documents/Nim/MCU/NIMPU6050/src/mpu6050/mpu6050.nim	202	17
+x	x__3gbgphmPr2YyFiVFGB9c3cA	/home/vincent/nim-1.9.3/nim/lib/system/dollars.nim	136	20
+mpu6050	mpu6050__v4QYeTetDBAQ6n7UZ9c3tYg	/home/vincent/Documents/Nim/MCU/NIMPU6050/src/mpu6050/mpu6050.nim	145	24
+args	args__vU9bPv9cuTwXcj2blBSnzjTw	/home/vincent/nim-1.9.3/nim/lib/system.nim	2697	19
+ts	ts__DBbGsWe9bEjgDo5GtN3P9avA	/home/vincent/.nimble/pkgs2/nesper-0.6.1-1678fa54fffdd902a738b06dfb6bdabbfd2353c8/nesper/timers.nim	86	12

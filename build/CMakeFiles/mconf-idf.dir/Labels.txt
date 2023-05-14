@@ -1,0 +1,13 @@
+# Target labels
+ mconf-idf
+# Source files and their labels
+/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/CMakeFiles/mconf-idf
+/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/CMakeFiles/mconf-idf.rule
+/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/CMakeFiles/mconf-idf-complete.rule
+/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-build.rule
+/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-configure.rule
+/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-download.rule
+/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-install.rule
+/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-mkdir.rule
+/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-patch.rule
+/home/vincent/Documents/Nim/MCU/mpu6050_i2cdev/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-update.rule
